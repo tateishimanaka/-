@@ -1,0 +1,21 @@
+*{
+  margin:0px;
+  padding:0px;
+  box-sizing:border-box;
+}
+
+.position{
+  position:relative;
+}
+
+.fab{
+  font-size: 32px;
+
+}
+
+.social{
+  position:absolute;
+  right:40px;
+  top:100px;
+  
+}
